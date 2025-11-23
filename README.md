@@ -60,3 +60,4 @@ Diese muss ausreichend vor Cyberangriffen geschützt sein, da Sicherheitslücken
 Auch diese Gefährdung ist ein wichtiger Punkt, welcher beachtet werden sollte. 
 Es muss sichergestellt werden, dass keine manipulation der Daten möglich ist, da diese die Integrität der Daten verletzen würde und dazu führen könnte, dass die Patienten aufgrund falscher Daten falsche Medikamenten, Behandlungen unterzogen werden. 
 
+
