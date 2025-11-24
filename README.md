@@ -35,7 +35,8 @@ Auch die Integrität der Daten spielt bei der Verarbeitung eine große Rolle. Da
 
 ## 4. Für welche der 6 Schadensszenarion sehen sie einen hohen oder sehr hohen Schutzbedarf? ([Schadenszenario](https://johannesloetzsch.github.io/LF11b/analyse.html#schadensszenarien))
 
-Einen besonders hohen Schutzbedarf
+Einen besonders hohen Schutzbedarf sehe ich bei der "*Beeinträchtigungen der persönlichen Unversehrtheit*". Diese muss aussreichend geschützt werden, da medizinische Daten schützenswerte Daten sind, welche 
+nur für die nötigsten Personen zugänglich sein sollten. Wird diese aber aufgrund eines Angriffs in Form eines Diebstahles, Missbrauch so stellt dies ein hohes Sicherheitsrisiko dar. 
 
 ## 5.  Welche der 47 Elementaren Gefährdungen sind aus ihrer Sicht für das Beispiel besonders relevant? ([BSI-Gefährdungen](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium/Elementare_Gefaehrdungen.pdf?__blob=publicationFile&v=4))
 Einige dieser Gefährdungen sind besonders relevant und sollten bei dem Verarbeiten der Daten berücksichtigt werden. 
@@ -60,4 +61,8 @@ Diese muss ausreichend vor Cyberangriffen geschützt sein, da Sicherheitslücken
 Auch diese Gefährdung ist ein wichtiger Punkt, welcher beachtet werden sollte. 
 Es muss sichergestellt werden, dass keine manipulation der Daten möglich ist, da diese die Integrität der Daten verletzen würde und dazu führen könnte, dass die Patienten aufgrund falscher Daten falsche Medikamenten, Behandlungen unterzogen werden. 
 
+### 6. Welche Schwachstellen / Verwundbarkeiten / Exploits sind Ihnen bekannt?
 
+Es können Schwachstellen sowohl durch die komplexe Systemlandschaft entstehen bspw. durch die Fehlkonfiguration oder unreichend geschützten Endpunkten. 
+Zudem wäre es möglich über Malware oder anderweitige Schadsoftware Zugriff auf die Daten, auf dem Endgerät zu erhalten. Auf diese kann dann ohne "eigentliche Zugriffsrechte"
+zugegriffen werden. 
